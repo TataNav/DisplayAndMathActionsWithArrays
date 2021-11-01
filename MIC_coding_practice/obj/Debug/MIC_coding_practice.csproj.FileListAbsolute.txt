@@ -1,0 +1,7 @@
+C:\Users\tatevik.navasardyan\source\MIC_coding_practice\MIC_coding_practice\bin\Debug\MIC_coding_practice.exe.config
+C:\Users\tatevik.navasardyan\source\MIC_coding_practice\MIC_coding_practice\bin\Debug\MIC_coding_practice.exe
+C:\Users\tatevik.navasardyan\source\MIC_coding_practice\MIC_coding_practice\bin\Debug\MIC_coding_practice.pdb
+C:\Users\tatevik.navasardyan\source\MIC_coding_practice\MIC_coding_practice\obj\Debug\MIC_coding_practice.csprojAssemblyReference.cache
+C:\Users\tatevik.navasardyan\source\MIC_coding_practice\MIC_coding_practice\obj\Debug\MIC_coding_practice.csproj.CoreCompileInputs.cache
+C:\Users\tatevik.navasardyan\source\MIC_coding_practice\MIC_coding_practice\obj\Debug\MIC_coding_practice.exe
+C:\Users\tatevik.navasardyan\source\MIC_coding_practice\MIC_coding_practice\obj\Debug\MIC_coding_practice.pdb
